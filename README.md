@@ -21,7 +21,7 @@ Neste primeiro módulo, o foco são os **fundamentos essenciais** do JavaScript.
   - Depuração de código e expressões regulares.
 - **Projetos:** Conversor de moedas.
 - **Tecnologias:** **JavaScript** (puro), **HTML** e **CSS**.
-
+  
 ---
 
 ### Nível 2: JavaScript Intermediário
