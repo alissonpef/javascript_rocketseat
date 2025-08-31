@@ -34,7 +34,7 @@ Evoluindo a partir dos fundamentos, este módulo explora conceitos mais avançad
   - Manipulação de datas e horas.
   - Programação Orientada a Objetos com classes.
 - **Projetos:** Sorteador de números.
-- **Tecnologias:** **JavaScript** (intermediário), **HTML** e **CSS**.
+- **Tecnologias:** **JavaScript** (intermediário), **HTML** e **CSS**
 
 ---
 
