@@ -25,3 +25,10 @@ console.log('1 é igual a "1" usando == ?', one == oneString);
 console.log('1 é estritamente igual a "1" usando === ?', one === oneString);
 console.log('1 é diferente a "1" usando != ?', one != oneString);
 console.log('1 é estritamente diferente a "1" usando !== ?', one !== oneString);
+
+let email = true;
+let password = false;
+
+console.log(email && password);
+console.log(email || password);
+console.log(!password);
