@@ -31,9 +31,9 @@ const arrowFunction = (name) => {
 console.log(arrowFunction("Alisson"));
 
 function callbackFunction(taskName, callback) {
-  console, log("Executando a tarefa: ", taskName);
+  console.log("Executando a tarefa: ", taskName);
 }
 
-execute("Download do arquivo...", () => {
+callbackFunction("Download do arquivo...", () => {
   console.log("Tarefa finalizada.");
 });
