@@ -26,3 +26,8 @@ user.name.first_name = "Vitoria";
 user.messageUser();
 
 console.log(user?.description);
+
+let pictureAlisson = "alisson.png";
+console.log(pictureAlisson ?? "default.png");
+let pictureVitoria = null;
+console.log(pictureVitoria ?? "default.png");
